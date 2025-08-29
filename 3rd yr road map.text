@@ -1,0 +1,77 @@
+🎯 Roadmap for Next Year (3rd Year AI+DS Student)
+📌 Semester 1 of 3rd Year
+
+Main Focus → Python + AI/ML foundations + continue DevOps
+
+Python (if not already strong)
+
+Revise Python OOPs, functions, error handling.
+
+Data libraries → NumPy, Pandas, Matplotlib, Seaborn.
+
+Machine Learning Basics
+
+Learn Scikit-Learn
+
+Algorithms: Linear Regression, Logistic Regression, Decision Trees, KNN, SVM, Clustering.
+
+Projects:
+
+Spam email classifier
+
+Movie recommender
+
+Stock price predictor
+
+DevOps – Level Up
+
+Docker (multi-container apps)
+
+CI/CD (Jenkins / GitHub Actions)
+
+Start Cloud basics (AWS/GCP/Azure free tier).
+
+📌 Semester 2 of 3rd Year
+
+Main Focus → Deep Learning + MLOps (AI + DevOps combo)
+
+Deep Learning
+
+TensorFlow / PyTorch
+
+ANN, CNN, RNN basics
+
+Projects:
+
+Handwritten digit recognition
+
+Face mask detector (Computer Vision)
+
+Chatbot (NLP)
+
+MLOps (AI + DevOps Integration)
+
+Model deployment with Flask/Django + Docker
+
+Use Kubernetes basics (deploy ML model as a microservice)
+
+Version control for ML models (DVC, MLflow).
+
+Competitive Coding (Optional but Helpful for Placements)
+
+Continue Java/Python DSA practice (medium-level LeetCode).
+
+📅 Weekly Routine for Next Year
+
+Mon–Fri (1 hr daily) → ML theory + Python practice
+
+Sat (3 hrs) → DevOps tools (Docker/Kubernetes/Cloud)
+
+Sun (3 hrs) → Projects (AI + DevOps integration)
+
+🎓 End of 3rd Year → You’ll Have
+
+✅ Strong ML + AI foundation
+✅ DevOps skills + Cloud basics
+✅ Portfolio with at least 3–4 good projects (mix of ML & DevOps)
+✅ Good DSA base (from this year’s Java) for internships/placements
