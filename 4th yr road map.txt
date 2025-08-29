@@ -1,0 +1,88 @@
+🎯 Roadmap for 4th Year (Final Year AI + DS)
+📌 Semester 1 (Start of 4th Year)
+
+Main Focus → Industry-Ready Skills + Resume Building
+
+Finalize Your Career Direction
+
+If you like AI/ML/Data Science → Specialize in ML/DL/NLP/Computer Vision.
+
+If you like DevOps/Cloud → Specialize in Cloud + Kubernetes + Automation.
+
+If you like Software/Backend → Keep polishing Java + Spring Boot.
+
+👉 By now, you should pick 1 primary career path, but keep the other as backup.
+
+Major Projects (Portfolio-Level)
+
+AI Path:
+
+End-to-End ML pipeline (data collection → training → deployment)
+
+NLP project (chatbot, sentiment analysis)
+
+Computer vision project (face recognition, defect detection)
+
+DevOps Path:
+
+CI/CD pipeline with Docker + Kubernetes + Cloud deployment
+
+Infrastructure automation project (Terraform, Ansible basics)
+
+Hybrid: Deploy an ML model with MLOps tools
+
+Internship / Research Paper (if possible)
+
+Try to publish a paper (AI/ML students often do this in India).
+
+Or get a summer internship before 4th year starts.
+
+📌 Semester 2 (Final Semester)
+
+Main Focus → Placements + Career Prep
+
+Placement Preparation
+
+DSA (Java/Python): Focus on LeetCode medium-level problems.
+
+Revise OS, DBMS, CN (common interview subjects).
+
+Practice mock interviews.
+
+Final-Year Project
+
+Make it resume-worthy + demo-ready.
+
+Example:
+
+“AI-powered Medical Image Classifier with Cloud Deployment”
+
+“CI/CD pipeline for deploying ML models on Kubernetes”
+
+Resume + GitHub + LinkedIn
+
+Showcase 5–6 good projects (mix of AI + DevOps).
+
+Keep clean, professional GitHub repos.
+
+Post small project updates on LinkedIn (helps recruiters notice you).
+
+📅 Weekly Routine (Final Year)
+
+Mon–Thu (1–2 hrs daily) → DSA + Interview prep
+
+Fri–Sat (2–3 hrs) → Work on final-year project
+
+Sun (2–3 hrs) → Build portfolio + resume polishing
+
+✅ End of 4th Year → You’ll Graduate With
+
+Strong skills in AI/ML or DevOps (whichever you choose)
+
+A portfolio of projects on GitHub
+
+Internship or final-year project to show in interviews
+
+DSA + CS fundamentals for placement tests
+
+A clear career path (AI engineer / ML engineer / DevOps engineer / Cloud engineer / Backend developer).
